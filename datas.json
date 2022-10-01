@@ -1,0 +1,86 @@
+{
+      "user":[
+             {
+                   "id":1,
+                   "name":"Netaji",
+                   "age": "28",
+                   "gender":"male",
+                   "email":"netajip121@gmail.com",
+                   "phone":"9970618010"
+             },
+ 
+             {
+                   "id":2,
+                   "name":"Pandu",
+                   "age": "27",
+                   "gender":"male",
+                   "email":"pandu147@hotmail.com",
+                   "phone":"9970851810"
+             },
+             {
+                   "id":3,
+                   "name":"Ram",
+                   "age": "27",
+                   "gender":"male",
+                   "email":"suryawanshiram2.com",
+                   "phone":"9870618010"
+             },
+             {
+                   "id":4,
+                   "name":"Neha",
+                   "age": "29",
+                   "gender":"female",
+                   "email":"neha125@gmail.com",
+                   "phone":"9970614710"
+             },
+             {
+                   "id":5,
+                   "name":"Preeti",
+                   "age": "30",
+                   "gender":"female",
+                   "email":"preeti199@gmail.com",
+                   "phone":"9970612581"
+             },
+             {
+                   "id":6,
+                   "name":"Hritik",
+                   "age": "25",
+                   "gender":"male",
+                   "email":"hritik124@gmail.com",
+                   "phone":"9970618250"
+             },
+ 
+             {
+                   "id":7,
+                   "name":"krushna",
+                   "age": "33",
+                   "gender":"male",
+                   "email":"krushna@gmail.com",
+                   "phone":"9970618880"
+             },
+             {
+                   "id":8,
+                   "name":"Rahul",
+                   "age": "52",
+                   "gender":"male",
+                   "email":"rahul@gmail.com",
+                   "phone":"9970618789"
+             },
+             {
+                   "id":9,
+                   "name":"Shradha",
+                   "age": "30",
+                   "gender":"female",
+                   "email":"shradha@gamil.com",
+                   "phone":"9970618015"
+             },
+             {
+                   "id":10,
+                   "name":"Rupali",
+                   "age": "27",
+                   "gender":"female",
+                   "email":"rupali12@gamil.com",
+                   "phone":"9970618478"
+             }
+       ]
+ }
